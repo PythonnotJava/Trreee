@@ -1,0 +1,7 @@
+Size: 147168 bytes
+First 100 bytes hex: c383c2abc382c297c382c2a6c383c2aec382c29ac382c2a9c383c2abc382c282c382c2bdc383c2a9c382c287c382c2a7c383c2aec382c28ac382c2b2c383c2aac382c282c382c29cc383c2a8c382c297c382c2a6c383c2aec382c29ac382c2b0c383c2aa
+
+UTF-16-LE: 73584 chars
+Has 'import': False
+Lines: 0
+Written as UTF-8
